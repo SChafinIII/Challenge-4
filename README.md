@@ -38,6 +38,17 @@ https://schafiniii.github.io/Challenge-4/
 
 ![image of final quiz results for user view](/Develop/codequiz1.png)
 
+##Credits
+I followed sources from the following websites and utilised CSS templates from the following sites. 
+
+> https://simplestepscode.com/javascript-quiz-tutorial/
+
+> https://gamedevacademy.org/javascript-quiz-tutorial/
+
+> https://profile.w3schools.com/refresh-session?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fjs%2Fjs_timing.asp
+
+> https://stackoverflow.com/questions/29971898/how-to-create-an-accurate-timer-in-javascript
+
 ## MIT License
 Copyright (c) [2023] [Steven W Chafin III]
 
