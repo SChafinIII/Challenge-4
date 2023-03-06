@@ -38,7 +38,7 @@ https://schafiniii.github.io/Challenge-4/
 
 ![image of final quiz results for user view](/Develop/codequiz1.png)
 
-##Credits
+## Credits
 I followed sources from the following websites and utilised CSS templates from the following sites. 
 
 > https://simplestepscode.com/javascript-quiz-tutorial/
